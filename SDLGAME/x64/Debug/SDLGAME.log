@@ -1,0 +1,5 @@
+﻿  Colour.cpp
+  main.cpp
+  Generating Code...
+Colour.obj : error LNK2001: unresolved external symbol "public: static struct SDL_PixelFormat const * const Colour::m_Format" (?m_Format@Colour@@2PEBUSDL_PixelFormat@@EB)
+F:\UNNC\coding_practice\c++\projects\SDLGAME\x64\Debug\SDLGAME.exe : fatal error LNK1120: 1 unresolved externals
